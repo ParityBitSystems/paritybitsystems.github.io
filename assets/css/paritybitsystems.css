@@ -1,0 +1,16 @@
+#header {
+    background: #3D0E4E;
+    color: #FFF;
+}
+
+.jumbotron-newcastle {
+    background: url('../images/newcastle.jpg');
+    /*background-color: #CCC;*/
+    background-size:100% auto;
+    background-repeat: no-repeat;
+}
+
+.headline {
+    color: #FFF;
+    font-size: 2.2em;
+}
